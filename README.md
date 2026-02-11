@@ -1,6 +1,8 @@
 # HCS5000: Hotspot Configuration Script 5000
 ## This for the Orbic Hotpsots
 
+HCS5000 is an administrative utility for lifecycle management and batch provisioning of Orbic HCS5000 devices in a workplace environment.
+
 These things have emergency resets if you mess it up... see your owners manual.
 
 ** Must have Chrome installed for this to work.
