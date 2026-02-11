@@ -1,4 +1,5 @@
 # HCS5000: Hotspot Configuration Script 5000
+## This for the Orbic Hotpsots
 
 These things have emergency resets if you mess it up... see your owners manual.
 
