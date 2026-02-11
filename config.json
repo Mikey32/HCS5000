@@ -1,0 +1,10 @@
+{
+  "current_admin_password": "UniqueStickerPass123",
+  "new_admin_password": "YourAdminPass_",
+  "wifi_24_pw": "Secure24ghzPass",
+  "wifi_5g_pw": "HighSpeed5ghzPass",
+  "ssid": "Orbic_Hotspot_Alpha",
+  "dns_mode": "Manual",
+  "dns_pri": "8.8.8.8",
+  "dns_sec": "8.8.4.4"
+}
