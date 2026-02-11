@@ -11,11 +11,11 @@ This program will load the values in config.json into your hotspot device:
 
 Hopefully the fields are self explanatory:
 
- "current_admin_password": "UniqueStickerPass123",
-  "new_admin_password": "YourAdminPass_",
-  "wifi_24_pw": "Secure24ghzPass", #wifi 2.4ghz password
-  "wifi_5g_pw": "HighSpeed5ghzPass", #wifi 2.5 password
-  "ssid": "Orbic_Hotspot_Alpha", #get's plugged into both 2.4 and 5g
-  "dns_mode": "Manual",
-  "dns_pri": "8.8.8.8",
-  "dns_sec": "8.8.4.4"
+    "current_admin_password": "UniqueStickerPass123",
+    "new_admin_password": "YourAdminPass_",
+    "wifi_24_pw": "Secure24ghzPass", #wifi 2.4ghz password
+    "wifi_5g_pw": "HighSpeed5ghzPass", #wifi 2.5 password
+    "ssid": "Orbic_Hotspot_Alpha", #get's plugged into both 2.4 and 5g
+    "dns_mode": "Manual",
+    "dns_pri": "8.8.8.8",
+    "dns_sec": "8.8.4.4"
