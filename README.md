@@ -1,5 +1,5 @@
 # HCS5000: Hotspot Configuration Script 5000
-## This for the Orbic Hotpsots
+## This for the Orbic Hotspots
 
 HCS5000 is an administrative utility for lifecycle management and batch provisioning of Orbic HCS5000 devices in a workplace environment.
 
